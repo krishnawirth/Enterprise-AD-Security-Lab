@@ -1,4 +1,4 @@
-Enterprise Security Lab
+Enterprise Active Directory Security Lab
 
 A Windows-based enterprise environment built using Active Directory, Group Policy, PowerShell, and Windows Server
 Environment
@@ -6,6 +6,7 @@ Environment
 The lab consists of a Windows Server domain controller and a domain-joined Windows 11 workstation. The environment 
 was configured to support departmental user management, shared resources, security policies, and administrative automation.
 
+===========================================
 
 Components
 
